@@ -1,0 +1,30 @@
+/* Elaina Marriott
+Section 
+Professor Anderson
+Due April 19th, 2023 */
+
+body {
+    background-image: url('../assets/img/bluewaterbackground.jpeg');
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* why are some of these orange */
+}
+
+.title {
+    font-size: 35px;
+    color: rgb(35, 67, 102)
+}
+
+a {
+    font-size: 20px;
+    color: black; /*is this weird*/
+}
+
+.bold {
+    font-weight: bolder;
+    color: #de1566;
+}
+
+.subtitles {
+    color:rgb(80, 80, 241);
+    font-size: 25px;
+}
